@@ -12,7 +12,7 @@ int main () {
     int heightft;
     int weight;
     
-    std::cout << "----------=-----\n";
+    std::cout << "--------------------------------BMI Calculator---------------------------\n";
     std::cout << "|              Category              |              BMI Range           |\n";
     std::cout << "-------------------------------------------------------------------------\n";
     std::cout << "|           Severe Thinness          |                < 16              |\n";
