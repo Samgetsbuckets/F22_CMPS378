@@ -12,7 +12,7 @@ int main () {
     int heightft;
     int weight;
     
-    std::cout << "-----------Welcome to Discovery Bay Golf and Country Club Restaurant-----\n";
+    std::cout << "----------=-----\n";
     std::cout << "|              Category              |              BMI Range           |\n";
     std::cout << "-------------------------------------------------------------------------\n";
     std::cout << "|           Severe Thinness          |                < 16              |\n";
